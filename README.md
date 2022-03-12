@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dimitrius Ionov, a **Developer** (specializing in **Front End Web Development**).
+I am Dimitrius Ionov, a **Data Engineer** (with FullStuck developer skills).
 
 ## 🛠️ Skills
 
