@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dimitrius Ionov, a **Data Engineer** (with FullStuck developer skills).
+I am Dimitrius Ionov, a **Data/Software Engineer**
 
 ## 🛠️ Skills
 
