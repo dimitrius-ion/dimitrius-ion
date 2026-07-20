@@ -65,11 +65,11 @@ I am Dimitrius Ionov — **Director of IT & Data Operations** at [NuCicer](https
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimitrius-ion&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrius-ion&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimitrius-ion&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrius-ion&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
 </p>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dimitrius-ion&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dimitrius-ion&hide_border=true&theme=github_dark" alt="GitHub streak" />
 
 ## 🔗 Links
 
