@@ -7,6 +7,10 @@ I am Dimitrius Ionov — **Director of IT & Data Operations** at [NuCicer](https
 🎓 Pursuing an ALM in **Cybersecurity** at Harvard University; B.S. in Chemistry from UC Davis.
 📍 Sacramento, California
 
+- 🔭 Building secure, production-grade genomic & phenotypic data pipelines
+- 🌱 Deepening security & governance expertise through a Harvard ALM in Cybersecurity
+- 💬 Ask me about **AgTech data infrastructure, hybrid cloud/on-prem, and MLOps**
+
 ## 🛠️ Skills
 
 ### Languages
@@ -57,6 +61,15 @@ I am Dimitrius Ionov — **Director of IT & Data Operations** at [NuCicer](https
 
 ### Security
 ![cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimitrius-ion&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrius-ion&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+</p>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dimitrius-ion&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
 ## 🔗 Links
 
